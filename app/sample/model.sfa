@@ -6,7 +6,89 @@
   ],
   materials: [
     {
-      name: 'material_21___13775',
+      name: 'material_6___20669',
+      parameters: [
+        {
+          baseColor: [
+            0.972549,
+            0.73333300000000001,
+            0.81568600000000002,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'material_5___20669',
+      parameters: [
+        {
+          baseColor: [
+            0.011764999999999999,
+            0.60784300000000002,
+            0.89803900000000003,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'material_21___20669',
       parameters: [
         {
           baseColor: [
@@ -38,13 +120,16 @@
           roughnessMap: null,
         },
         {
+          reflectance: 0.5,
+        },
+        {
           opacity: null,
         },
       ],
       source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
     },
     {
-      name: 'material_23___13775',
+      name: 'material_23___20669',
       parameters: [
         {
           baseColor: [
@@ -76,118 +161,7 @@
           roughnessMap: null,
         },
         {
-          opacity: null,
-        },
-      ],
-      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
-    },
-    {
-      name: 'material_13___13775',
-      parameters: [
-        {
-          baseColor: [
-            1,
-            0.596078,
-            0,
-            1,
-          ],
-        },
-        {
-          baseColorMap: null,
-        },
-        {
-          normalMap: null,
-        },
-        {
-          interpolatedColor: null,
-        },
-        {
-          metallic: 0,
-        },
-        {
-          metallicMap: null,
-        },
-        {
-          roughness: 1,
-        },
-        {
-          roughnessMap: null,
-        },
-        {
-          opacity: null,
-        },
-      ],
-      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
-    },
-    {
-      name: 'material_18___13775',
-      parameters: [
-        {
-          baseColor: [
-            1,
-            0.80000000000000004,
-            0.53333299999999995,
-            1,
-          ],
-        },
-        {
-          baseColorMap: null,
-        },
-        {
-          normalMap: null,
-        },
-        {
-          interpolatedColor: null,
-        },
-        {
-          metallic: 0,
-        },
-        {
-          metallicMap: null,
-        },
-        {
-          roughness: 1,
-        },
-        {
-          roughnessMap: null,
-        },
-        {
-          opacity: null,
-        },
-      ],
-      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
-    },
-    {
-      name: 'material_11___13775',
-      parameters: [
-        {
-          baseColor: [
-            0,
-            0.58823499999999995,
-            0.53333299999999995,
-            1,
-          ],
-        },
-        {
-          baseColorMap: null,
-        },
-        {
-          normalMap: null,
-        },
-        {
-          interpolatedColor: null,
-        },
-        {
-          metallic: 0,
-        },
-        {
-          metallicMap: null,
-        },
-        {
-          roughness: 1,
-        },
-        {
-          roughnessMap: null,
+          reflectance: 0.5,
         },
         {
           opacity: null,
@@ -207,6 +181,7 @@
     file: 'sample/model.fbx',
     name: 'model',
     recenter: 'root',
+    scale: 0.0000027303999999999998,
   },
-  version: '0.54:2',
+  version: '0.52:1',
 }

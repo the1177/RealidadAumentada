@@ -26,6 +26,7 @@
         app:layout_constraintBottom_toBottomOf="@+id/sceneform_fragment"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_explore_white_24dp"
          />
 
 </android.support.constraint.ConstraintLayout>
